@@ -1,0 +1,13 @@
+Epoch 0: train 1.436 | val 0.968
+Epoch 0: train 1.441 | val 0.977
+Epoch 0: train 1.437 | val 0.986
+Epoch 0: train 1.438 | val 0.978
+Epoch 1: train 0.794 | val 0.772
+Epoch 2: train 0.606 | val 0.672
+Epoch 3: train 0.497 | val 0.611
+Epoch 4: train 0.426 | val 0.599
+Epoch 5: train 0.376 | val 0.573
+Epoch 6: train 0.338 | val 0.569
+Epoch 7: train 0.309 | val 0.560
+Epoch 8: train 0.285 | val 0.553
+Epoch 9: train 0.266 | val 0.542
