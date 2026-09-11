@@ -36,7 +36,7 @@ mini-clip/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/kadhiravang/Mini-CLIP.git
+git clone https://github.com/tmundargiai/CLIP.git
 cd mini-clip
 ```
 ### 2️⃣ Create and activate a virtual environment
